@@ -1,5 +1,9 @@
 Hello world
 
+<<<<<<< HEAD
 
 
 disini juga kok!
+=======
+adding mystery
+>>>>>>> 9c577752e80fdc8ce10dabb535d6482171816b91
